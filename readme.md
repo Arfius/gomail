@@ -19,7 +19,7 @@
       "port": 587,
       "auth": {
         "user": "itsapp.it@gmail.com",
-        "pass": "talemascurdavu"
+        "pass": "passwords"
             }
     }
 }
