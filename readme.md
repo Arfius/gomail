@@ -13,15 +13,12 @@
 #### filepath
 ```
 {
-  "configuration":
-    {
-      "host": "mail.itsapp.it",
-      "port": 587,
-      "auth": {
-        "user": "itsapp.it@gmail.com",
-        "pass": "passwords"
-            }
-    }
+  "host": "mail.itsapp.it",
+  "port": 587,
+  "auth": {
+    "user": "itsapp.it@gmail.com",
+    "pass": "passwords"
+        }
 }
 ```
 #### mailoption
